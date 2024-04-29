@@ -15,5 +15,5 @@ To download Visionary OS, follow these steps.
 
 - Stable Version
   > Download the HTML file.
-  > Download the Visionary OS Activation File.
-  > Further instructions can be found in the OS.
+   > Download the Visionary OS Activation File.
+    > Further instructions can be found in the OS.
