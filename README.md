@@ -11,9 +11,13 @@ Visionary OS is an HTML based operating system that focuses on being simple and 
 
 # How to Download
 
-To download Visionary OS, follow these steps.
+> To download Stable Visionary OS, follow these steps.
 
-- Stable Version
-  > Download the HTML file.
-   > Download the Visionary OS Activation File.
-    > Further instructions can be found in the OS.
+- Download the VisionaryOS HTML File.
+That's all!
+
+> To download Developer Visionary OS, follow these steps.
+
+- Download the VisionaryOS HTML File.
+- Download the VisionaryOS Emulator HTML File.
+That's all!
